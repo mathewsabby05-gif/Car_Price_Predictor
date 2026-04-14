@@ -1,5 +1,5 @@
 # Car_Price_Predictor
-Project containing data cleaning, Exploratory Data Analysis (EDA), and pipeline building with OneHotEncoding
+
 This project is a Machine Learning application that predicts the price of used cars based on their features such as name, company, year of purchase, kilometers driven, and fuel type.
 
 ## 📁 Project Overview
